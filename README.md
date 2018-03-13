@@ -1,6 +1,6 @@
-//  AUTHOR:		George Banfalvi
+//AUTHOR:   George Banfalvi
 //
-//	DATE:		03/10/18
+//  DATE:   03/10/18
 //
 //  DESCRIPTION:
 //				This program reads in a comma delimited CSV file (in this case name and phone number address file) and parses
